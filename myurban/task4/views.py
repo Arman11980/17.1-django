@@ -16,10 +16,12 @@ def game_page(request):
     title = 'Games'
     text = 'Игры'
     pay = 'Купить'
+    games = ['Atomic Heart', 'Cyberpunk 2077', 'PayDay2', 'Diablo IV']
     context = {
         'title': title,
         'text': text,
         'pay': pay,
+        'games': games,
     }
     return render(request, 'games.html', context)
 
