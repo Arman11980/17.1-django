@@ -8,10 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myurban/myurban/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myurban/myurban/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myurban/myurban/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myurban/myurban/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myurban/task3/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myurban/task3/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myurban/templates/third/bin_page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myurban/templates/third/main_page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myurban/templates/third/shop_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myurban/static/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -33,6 +31,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
